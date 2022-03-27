@@ -11,6 +11,7 @@ $ pkg install git
 $ pip install requests
 $ pip install mechanize
 $ pip install colorama
+$ rm -rf GBF
 $ git clone https://github.com/IrpanQwerty-05/GBF 
 ```
 
