@@ -22,6 +22,12 @@ $ cd $HOME/GBF
 $ python run.py
 ```
 
+<h4 align="left">🛡 Install one line</h4>
+
+```
+pkg update && pkg upgrade && pkg install python && pkg install git && pip install requests && pip install mechanize && pip install colorama && rm -rf GBF && git clone https://github.com/IrpanQwerty-05/GBF
+```
+
 <h4 align="left">📝Alat auto otomatis facebook terlengkap yang saya buat di tahun 2022 ini, Saat ini alat sedang saya perbaiki atau sedang di perbarui untuk melengkapi semua fitur-fitur yang ada atau tersedia di dalam alat tersebut. harap tunggu sampai semua proses perbaikan atau pembaruan selesai agar anda dapat menggunakan alat ini, Terimakasih.</h4>   
 
 <h4 align="left">📝The most complete Facebook auto auto tool that I made in 2022, I am currently repairing the tool or being updated to complement all the features that are or are available in the tool. please wait until all repair or repair processes are complete so you can use this tool, Thank you. </h4>
